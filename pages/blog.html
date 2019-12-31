@@ -1,0 +1,56 @@
+---
+layout: blog
+name: blog
+title: Blog
+description: "Bienvenue dans le Blog de Nenba Jonathan"
+permalink: /blog/
+---
+
+<section>
+    <div class="container blog">
+      <div class="header">
+        <h2>Blog</h2>
+      </div>
+      <p class="section-intro" style="font-size: 1rem" >Bienvenue dans mon blog, Ici, je partage mes experiences, mes aventure dans le monde de <strong>l'informatique</strong>, <strong> l'entrepreunariat</strong>, <strong> mes lecture...</strong>Veillez explorer et lire mes article sans moderation. Vos feedback sont la bienvenue. Merci !</p>
+      <div class="posts-list">
+        {% for post in site.posts %}
+          {% if post.visible == 1 %}
+            <div class="post-feature">
+              <h3 class="post-feature-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+              <div class="post-feature-meta">
+                {% for category in post.categories %}
+                  <a href="/category/{{category}}">
+                    <span class="category-post"> <i class="fa fa-folder"></i> {{category}}</span>
+                  </a>
+                {% endfor %}
+              </div>
+              <div class="post-feature-meta">
+                  <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                      {% assign d = post.date | date: "%-d"  %}
+                      {{ post.date | date: "%B" }}
+                      {% case d %}
+                          {% when '1' or '21' or '31' %}{{ d }}st
+                          {% when '2' or '22' %}{{ d }}nd
+                          {% when '3' or '23' %}{{ d }}rd
+                          {% else %}{{ d }}th
+                      {% endcase %},
+                      {{ post.date | date: "%Y" }}
+                  </time>
+              </div>
+              {% if post.image %}
+                <a href="{{ post.url }}">
+                  <img src="{{ base.url }}{{ post.image }}" class="post-feature-image" alt="{{ post.title }}">
+                </a>
+              {% endif %}
+              <div class="post-feature-excerpt">
+                {{ post.excerpt }}
+              </div>
+              <a href="{{ post.url }}" class="button">Lire plus</a>
+            </div>
+          {% endif %}
+        {% else %}
+          <p>Sorry, I haven't posted yet! Please come back later.</p>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
