@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-        {% include head.html %}
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
-  </head>
 
-  <body class="loading">
+<head>
+	{% include head.html %}
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+</head>
 
-    {% include header.html %}
+<body class="loading">
+	
+	{% include header.html %}
 
-    {% include sidebar.html %}
-    <main>
-      {{ content }}
-    </main>
+	{% include sidebar.html %}
+	<main>
+		{{ content }}
+	</main>
 
-    {% if page.url != '/' %}
-      {% include footer.html %}
-    {% endif %}
+	{% if page.url != '/' %}
+	{% include footer.html %}
+	{% endif %}
 
-  </body>
+</body>
+
 </html>
