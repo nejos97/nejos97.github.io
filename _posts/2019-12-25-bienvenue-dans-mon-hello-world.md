@@ -1,6 +1,6 @@
 ---
+title:  'Bienvenue dans mon Hello World !!'
 layout: post
-title:  "Bienvenue dans mon Hello World !!"
 date:   2019-12-25 15:07:08 +0100
 categories: [welcome, personnal]
 image: "/assets/images/posts/welcome.jpg"
