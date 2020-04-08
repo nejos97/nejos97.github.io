@@ -978,3 +978,7 @@ svg {
   transition: height .3s;
   background:#e55934;
 }
+
+.result{
+  margin: 12px 0px;
+}
