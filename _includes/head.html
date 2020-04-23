@@ -7,12 +7,11 @@
 <meta name="theme-color" content="#5e42a6">
 
 <title>
-  {%- if page.title -%}
-    {{ page.title | smartify }} - {{ site.title | smartify }}
-  {%- else -%}
-    {{ site.title | smartify }} - {{ site.description | smartify }}
-  {%- endif -%}
+    {%- if page.title -%}
+        {{ page.title | smartify }} | {{ site.title | smartify }}
+    {%- else -%}
+        {{ site.title | smartify }} | {{ site.description | smartify }}
+    {%- endif -%}
 </title>
 
 {% include styles.html %}
-
