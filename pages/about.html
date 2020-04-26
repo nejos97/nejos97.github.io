@@ -7,49 +7,61 @@ permalink: /about/
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-        {% include head.html %}
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
-  </head>
 
-  <body class="loading">
+<head>
+  {% include head.html %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+</head>
 
-    {% include header.html %}
+<body class="loading">
 
-    {% include sidebar.html %}
-    <main>
-      <section>
-        <div class="container blog">
-          <h2>A propos de moi</h2>
-          <p class="section-intro" style="font-size: 1rem; max-width: 90%;" >Bienvenue dans mon blog, Ici, je partage mes experiences, mes aventure dans le monde de <strong>l'informatique</strong>, <strong> l'entrepreunariat</strong>, <strong> mes lecture...</strong>Veillez explorer et lire mes article sans moderation. Vos feedback sont la bienvenue. Merci !</p>
-          <div class="section-intro" style="font-style: normal; max-width: 90%;">
-            <p>
-              Je suis Nenba Jonathan, je suis un étudiant en Informatique à l’université de Ngaoundere au Cameroun.
-              Le Cameroun est un pays situe en Afrique Centrale, un pays en voie de développement. Je suis dans une famille de 5 enfants et je suis le 3e. J’ai 2 grands magnifique grand frère. J’ai fait mes études secondaires dans une ville au Nord du pays qui s’appelle Guider, mais j’avais commencé le secondaire à Tchollire une autre petite ville du Nord Cameroun aussi.
-            </p>
-            <p>
-              C’est effectivement en classe de 4e que j’ai pu réellement être séduit par l’informatique. J’étais avec mes amis et on aimait passer énormément de temps dans le centre de ressource multimédia de notre établissement.
-              Depuis ce temps, je me suis vraiment consacré à l’informatique et de tout ce qui tourne autour.            
-            </p>
-            <p>
-              Après l’obtention de mon Baccalauréat je passé le concours de l’IUT de Ngaoundere où j’ai fait une formation en génie informatique de 2 ans. Tout allait bien pour moi puisque j’ai fini avec 13 de moyenne ce qui n’étais pas facile.
-              Je sentais que quelque chose ne me plaisait pas, j’aimais l’informatique, mais pas la manière de le faire. Je n'aimais pas la manière dont les cours étais dispensé. Après ma soutenance de DUT, j’ai décidé d’arrêter mon parcours à l’IUT et m’inscrire définitivement en Faculté moi et quelques amis.            
-            </p>
-            <p>
-              La motivation d’arrêter m’est venu du fait que je voulais plus être indépendant et avoir assez de temps pour faire ce que je voulais. J’ai longuement réfléchi mon avenir et ce que mon entourage attendais de moi.
-              J’ai décidé de me lancer et de faire ce qui me plaisait, c’est de cette manière que j’ai découvert l'entrepreneuriat avec les amis. Je lançais tout ce qui tombais sur la tête sous forme d’entreprise et laissez-moi vous dire que même a cet instant, je continue toujours de réfléchir sur les idées d’entreprise que je vais mettre en place.
-              J’ai décidé d’être un informaticien et entrepreneur tech. Je vais continuer l’apprentissage de l’informatique en suivant des formations en ligne, mais je vais plus me consacre et beaucoup alloué de l’énergie dans l'entrepreneuriat.
-              Ce blog, je l’ai créé dans le but de partager ma passion avec des gens de partout dans le monde et apprendre d’eux également. Je vous conseille de lire mes articles et de les partager avec votre entourage sans modération.
-              Merci d’avoir lu. 
-            </p>
-          </div>
+  {% include header.html %}
+
+  {% include sidebar.html %}
+  <main>
+    <section>
+      <div class="container blog">
+        <h2>A propos de moi 😎</h2>
+        <div class="section-intro" style="font-style: normal; max-width: 90%;">
+          <p>Je suis Nenba Jonathan, je suis un étudiant(de temps en temps) en Informatique à l’université de Ngaoundere
+            au Cameroun. Je suis né dans une famille de 5 enfants et je suis le 3e. J’ai 2 grands magnifique grand
+            frère(😘 Abel et 😘 Isaac). J’ai fait la majeurs partie de mes études secondaires dans une ville au Nord du pays
+            qui s’appelle Guider.</p>
+
+          <p>En classe de 4e que j’ai eu la chance d'être séduit par l’informatique. J’étais avec mes amis(🖥️ Dany,🖥️ Andre,
+            🖥️ Alladin) et on aimait passer énormément de temps dans le centre de ressource multimédia de notre
+            établissement. Depuis ce temps, je me suis vraiment consacré à l’informatique et de tout ce qui tourne
+            autour.</p>
+
+          <p>Après l’obtention de mon Baccalauréat, j'ai passé le concours de l’IUT(Institut Universitaire de
+            Technologie) où j’ai fait une formation en génie informatique de 2 ans. J’aimais l’informatique, mais pas la
+            manière avec laquelle je le faisais. Je n'aimais pas la manière dont les cours étais dispensé. Après cela,
+            je me suis inscrit en Faculté.</p>
+
+          <p>Je voulais être indépendant et avoir assez de temps pour faire ce que je voulais. J’ai longuement réfléchi
+            sur mon avenir et ce que mon entourage attendais. J’ai donc décidé de me lancer et de faire ce qui me
+            plaisait réellement, c’est de cette manière que j’ai découvert l'entrepreneuriat et d'autres passions avec
+            les amis.</p>
+
+          <p>J’ai décidé d’être un Informaticien et Entrepreneur. Je vais continuer l’apprentissage(Ne dit-on pas qu'on
+            apprend toute sa vie ? ). </p>
+
+          <p>Ce site web, je l’ai créé dans le but de partager ma passion avec des gens de
+            partout dans le monde et apprendre d’eux également. Je suis passionné de lecture, d'écriture, photographie,
+            musique... Ce site web va vous faire découvrir tout cela n'hésitez pas de la partager dans votre entourage
+            également. Rendez-vous dans la section Blog du site.</p>
+          <br>
+          <p><strong>Merci d’avoir lu. 👋</strong></p>
+
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
+  </main>
 
-    {% if page.url != '/' %}
-      {% include footer.html %}
-    {% endif %}
-    
-  </body>
+  {% if page.url != '/' %}
+  {% include footer.html %}
+  {% endif %}
+
+</body>
+
 </html>

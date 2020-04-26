@@ -1,8 +1,13 @@
 ---
-title:  'Bienvenue dans mon Hello World !!'
+title: Toute chose a un début, même ce Blog...
 layout: post
-date:   2019-12-25 15:07:08 +0100
-categories: [welcome, personnal]
+date: '2020-04-26 12:30:00'
+categories:
+- welcome
+- personnal
+- discovery
+- first_time
+- launching
 image: "/assets/images/posts/welcome.jpg"
 visible: 1
 ---
