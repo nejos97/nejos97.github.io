@@ -48,7 +48,9 @@ comments: true
 					
 					{{ content }}
 					<div>
-						{% include disqus.html %}
+						{% if jekyll.environment == 'production' %}
+							{% include disqus.html %}
+						{% endif %}
 					</div>
 				</div>
 			</div>
