@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Site web officiel de NENBA Jonathan
+tagline: Site web officiel de NENBA Jonathan
 email: nenbajonathan@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Je suis un informaticien & entrepreneur. Créateur d'entreprise & investisseur, 
+  j'aime créer et diriger des entreprises. La cryptomonnaie, application, services tech... 
+  Tant de domaines qui me passionne chaque jour.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nenbajonathan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nejos97
@@ -36,8 +37,27 @@ permalink: /blog/:title/
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 google_analytics: UA-164684064-1
+
+twitter:
+  username: nejos97
+  card: summary
+
+social:
+  name: Nenba Jonathan
+  links:
+    - https://twitter.com/nejos97
+    - https://www.linkedin.com/in/jnenba
+    - https://github.com/nejos97
+    - https://facebook.com/jonathanblessingnejos.nenba
+    - https://fr.quora.com/profile/Jonathan-Nenba
+    - https://dev.to/nejos97
+  
+lang: fr_FR
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
