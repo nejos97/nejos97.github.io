@@ -21,10 +21,7 @@
 title: Site web officiel de NENBA Jonathan
 tagline: Site web officiel de NENBA Jonathan
 email: nenbajonathan@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Je suis un informaticien & entrepreneur. Créateur d'entreprise & investisseur, 
-  j'aime créer et diriger des entreprises. La cryptomonnaie, application, services tech... 
-  Tant de domaines qui me passionne chaque jour.
+description: "Je suis un informaticien & entrepreneur. Créateur d'entreprise & investisseur. La cryptomonnaie, application, services tech... Tant de domaines qui me passionne chaque jour."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nenbajonathan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nejos97
@@ -55,7 +52,7 @@ social:
     - https://facebook.com/jonathanblessingnejos.nenba
     - https://fr.quora.com/profile/Jonathan-Nenba
     - https://dev.to/nejos97
-  
+
 lang: fr_FR
 
 # Exclude from processing.
@@ -77,3 +74,9 @@ lang: fr_FR
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: null
