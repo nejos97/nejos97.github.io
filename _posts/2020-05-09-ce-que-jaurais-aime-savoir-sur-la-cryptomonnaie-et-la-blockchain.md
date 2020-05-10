@@ -13,23 +13,28 @@ visible: 1
 description: C'est quoi la cryptomonnaie et la blockchain ? Une breve introduction
   a ses concepts et la finance numérique de demain.
 ---
+##  C'est quoi la Cryptomonnaie
 
-### C'est quoi la Cryptomonnaie
+![list of cryptocurrency ](https://www.bitcoinvalue.com/wp-content/uploads/2019/04/20-Free-Cryptocurrency-Icons.jpg)
 
 Une cryptomonnaie est une monnaie numérique ou virtuelle conçue pour fonctionner comme moyen d'échange. Il utilise la cryptographie pour sécuriser, vérifier et valider les transactions ainsi que pour contrôler la création des nouvelles unités de cette crypto-monnaie(On ne décide pas d'aller juste imprimer comme on le fait avec la monnaie fiduciaire : XAF, USD, EUR...)  
 Les cryptomonnaie sont essentiellement des entrées(souvent limités) dans une base de données que personne ne peut modifier a moins que des conditions spécifique ne soit rempli(des conditions vraiment bizarres)  
 Les cryptomonnaies fonctionnent à l'aide d'une technologie appelée blockchain(pas de crainte, on en reparle juste en bas).
 
-### La Blockchain
+## La Blockchain
+
+![enter image description here](https://www.swisspeace.ch/apropos/wp-content/uploads/2018/07/Blockchain-Bild.jpg)
+
 Une blockchain est une technologie de stockage et de transmission d’information sans organe de contrôle(pas de contrôle centraliser). De manière technique, il s'agit d'une base de données distribué dont les informations sont vérifiées et groupées à intervalle de temps régulier en blocs, formant ainsi une chaîne les unes liées aux autres. On peut également dire que c'est une base de données distribuer(à travers le monde le plus souvent) qui gère une liste d'enregistrement(votre argent par exemple) protégé contre toute falsification et modifications. C'est dont un gros livre qui garde et traite toute les transactions effectuées depuis le démarrage d'un système(le lancement de la cryptomonnaie).
 
 Il faut savoir que beaucoup de monnaie virtuelle et de cryptomonnaie utilisent les chaînes de blocs pour leur sécurité. Satashi Nakamoto, l'inventeur du bitcoin, a été le premier a appliquer une chaîne de block décentralisée. Les transactions sur une chaîne de blocs sont très difficiles à annuler.  
   
 Au-delà de son aspect monétaire, cette technologie de stockage décentralisé d'information pourrait avoir de multiples applications nécessitant une sécurisation des échanges sans passer par un organisme centralisateur, ou une traçabilité infalsifiable.
 
-### Concept clé de la Cryptomonnaie
+## Concept clé de la Cryptomonnaie
+![take note image](https://cdn.myfonts.net/s/aw/720x360/113/0/58162.jpg)
 
-Avant de continue, je voulais vous montrer quelques mots et concept a maîtriser pour être à l'aise dans ce domaine.
+Avant de continue, je voulais vous montrer quelques mots et concept a maîtriser pour être à l'aise dans ce domaine(et surtout n'oublie pas le conseil de notre chouette !).
 
 **Decentralisation**: Décrit un système où il n'y a pas de points de défaillance centralisés (par exemple, un pilier qui maintient toute une structure en place), ou une organisation qui n'a pas de figure d'autorité centrale. Le Bitcoin est un exemple de système décentralisé.
 
@@ -41,7 +46,7 @@ Avant de continue, je voulais vous montrer quelques mots et concept a maîtriser
 
 **Wallet**: Analogue à un compte bancaire en ligne ou à un logiciel client de messagerie. Les portefeuilles de cryptomonnaie sont une interface qui permet aux utilisateurs de stocker, d'envoyer et de recevoir des cryptomonnaies. Il existe 3 catégories populaires de portefeuilles, "Custodial" - où la sécurité des clés privées (et par proxy, les cryptomonnaies elles-mêmes) sont gérées par un tiers, "Hot" - portefeuilles destinés à un usage fréquent et "Cold" - portefeuilles qui sont destiné à un stockage sécurisé et à long terme.
 
-**Wallet Adresse**: Les adresses de portefeuille, également clairement appelées adresses, sont la chaîne alphanumérique où vos cryptomonnaies sont stockées. Un exemple d'adresse de portefeuille sur le protocole Bitcoin est "3Meyr94nMxjXTvi9sM1Qgn6iSTqyqmcWaA" (C'est mon adresse bitcoin ici.)
+**Wallet Adresse**: Les adresses de portefeuille, également clairement appelées adresses, sont la chaîne alphanumérique où vos cryptomonnaies sont stockées. Un exemple d'adresse de portefeuille sur le protocole Bitcoin est "3KJmVaMzKRxKbKTMQmfnKzecpsExs8tbkk"
 
 **Mining**: C'est le processus des mineurs vérifiant et ajoutant des records de transaction dans un bloc. Le mineur qui réussit l'extraction sera récompensé par une pièce. Le processus de vérification nécessite généralement que le mineur utilise un matériel spécifique pour extraire et connecté à Internet.
 
@@ -53,7 +58,9 @@ Avant de continue, je voulais vous montrer quelques mots et concept a maîtriser
 
 Pour une liste plus détaillée des concepts [cliquer ici](https://www.coingecko.com/en/glossary)
 
-### Quels Cryptomonnaie choisir
+## Quels Cryptomonnaie choisir
+
+![enter image description here](https://whoisadampayne.com/wp-content/uploads/2016/01/quotivee_wallpaper_1920x1200_0006_you-make-your-own-choices-e1430331723959.jpg)
 
 S'il y a une chose qui va beaucoup vous étonner dans la cryptomonnaie ce qu'il en existe énormément et selon tous les goûts. En fait la chose que vous devrait toujours garder en tête, c'est le projet que soutient la cryptomonnaie, car chaque cryptomonnaie doit avoir un problème à résoudre et avoir définie également comment il compte résoudre le problème. Faite surtout attention il y a d'autre groupe de personne qui se cache derrière le mot crytomonnaie, blockchain pour arnaquer les gens. Je vous conseillerais donc de faire d'avantage de recherche concerne le projet de cryptomonnaie qui vous a le plus attiré.  
 Ici, je vais vous proposer juste quelque cryptomonnaie qui sont les plus répandues et ayant fais leur preuve.
@@ -70,7 +77,8 @@ Le litecoin a été mis en service en 2011. Il est aussi similaire au Bitcoin, m
  - **Stellar Lumens**
 Stellar Lumen est une cryptomonnaie créer par le Réseau Stellar. Il fonctionne presque de la même manière que le bitcoin, et joue le rôle de passerelle avec les cryptomonnaie qui ne sont pas rependue directement sur un marche.
 
-### Comment acheter Cryptomonnaies
+## Comment acheter Cryptomonnaies
+![enter image description here](https://images.yourstory.com/cs/wordpress/2017/11/Buy-Cryptocurrency.jpg)
 
 Menant que vous savais ce que c'est la cryptomonnaie, c'est excitant, je sais menant nous allons voir comment vous pouvez vous en procurer facilement.
 
@@ -84,7 +92,7 @@ Une fois que votre portefeuille est bien configurer, il ne vous reste plus qu'à
 
 La plupart des plate-formes d'échange de cryptomonnaie retire certains frais pour le service rendu(achat ou vente)
 
-### Les entreprises leader dans le domaine
+## Les entreprises leader dans le domaine
 
 Le domaine de la cryptomonnaie aujourd'hui est une mine d'or encore en voix d'exploitation. Beaucoup d'entreprises se sont lancé dans ce domaine et du coup la guerre est vraiment sans pitié. Les hackers quant à eux font leur part de travail egalement(dérobez le maximum d'ignorant.). À l'heure ou j'écris cet article, le monopole de la cryptomonnaie est détenue par la chine après vient les Etats-Unis. Ce monopole ce juge surtout par la quantité de cryptomonnaie détenue par ses entreprises.
 
@@ -94,7 +102,7 @@ Le domaine de la cryptomonnaie aujourd'hui est une mine d'or encore en voix d'ex
  - [Luno](https://www.luno.com/fr/): Est une société liée au Bitcoin dont le siège est a londres. Luno facilite le stockage et les transaction bitcoin tels que l'achat, la vente et le paiement via leurs services de portefeuille bitcoin. Ils opèrent également des échanges entre les monnaies traditionnelles et le bitcoin.
  - [Kraken](https://www.kraken.com/): Est une plateforme web d'échange de cryptomonnaies, fondée en 2011 et basée à San Francisco, dont le PDG est Jesse Powell. Celle-ci permet l'échange de plusieurs monnaies fiduciaires vers un panel de cryptomonnaies comme : Bitcoin Bitcoin Cash Ether Litecoin Dash Monero Ripple
 
-### Et l'Afrique dans tout ça ?
+## Et l'Afrique dans tout ça ?
 
 L'Afrique pourrait bien être la prochaine frontière de cryptomonnaie. Certains économistes disent que c'est une innovation de rupture qui va fleurir sur le continent.
 
@@ -102,5 +110,13 @@ Selon le site web d'information en matière de la crytomonnaie en Afrique, les p
 
 Le fait que les gouvernements africains ne réglementent pas actuellement la cryptomonnaie peut être un facteur qui stimule sa croissance sur le continent ; cependant, rien ne garantit que les gouvernements ne changeront pas leur état d'esprit actuel.
 
-Craignant un effondrement du secteur bancaire, les Africains sans accès aux comptes bancaires pourraient être attirés par la crypto-monnaie(les transactions Bitcoin aident à éliminer les goulots d'étranglement procéduraux qui affligent les services bancaires et financiers traditionnels.).  
-L'une des raisons qui fait de l'Afrique le terrain de jeu parfait de la cryptomonnaie est que les experts de l'industrie pensent que la crypto-monnaie existera pendant des années. Le fait que les utilisateurs de Bitcoin puissent envoyer de l'argent à peu près partout où il y a une connexion Internet pour des frais relativement faibles et sans interférence de tiers est un avantage que les devises standards émis par le gouvernement ne peuvent pas offrir.
+Craignant un effondrement du secteur bancaire, les Africains sans accès aux comptes bancaires pourraient être attirés par la crypto-monnaie(les transactions Bitcoin aident à éliminer les goulots d’étranglement procéduraux qui affligent les services bancaires et financiers traditionnels.).  
+L’une des raisons qui fait de l’Afrique le terrain de jeu parfait de la cryptomonnaie est que les experts de l’industrie pensent que la cryptomonnaie existera pendant des années. Le fait que les utilisateurs de Bitcoin puissent envoyer de l’argent à peu près partout où il y a une connexion Internet pour des frais relativement faibles et sans interférence de tiers est un avantage que les devises standards émis par le gouvernement ne peuvent pas offrir.
+
+##### Reference
+
+ - [https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency](https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency)
+ - [https://www.coingecko.com/en/glossary](https://www.coingecko.com/en/glossary)
+ - [https://blockgeeks.com/guides/what-is-cryptocurrency/](https://blockgeeks.com/guides/what-is-cryptocurrency/)
+ - [https://blockgeeks.com/guides/blockchain-government-use-cases/](https://blockgeeks.com/guides/blockchain-government-use-cases/)
+ - [https://www.investopedia.com/terms/c/cryptocurrency.asp](https://www.investopedia.com/terms/c/cryptocurrency.asp)
