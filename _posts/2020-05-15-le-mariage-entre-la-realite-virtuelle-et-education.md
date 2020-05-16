@@ -16,18 +16,18 @@ description: L'impact de la réalité virtuelle sur le processus d'éducation et
 ### C'est quoi la Réalité Virtuelle(VR)
 
 ![enter image description here](https://i.cbc.ca/1.3564802.1462305007!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/still-from-nomads-maasai-by-felix-paul-studios.jpg)
-
+Les Maasaï experimentant la VR.
 
 Encore appeler VR(Virtual Reality en *anglais*) est une technologie qui simule la présence physique d'une personne dans un environnement créer par des logiciels. À ne pas confondre avec la réalité augmente(nous en parlerons très prochainement.)
 
-Il peut s'agir d'une reproduction d'un monde reel(un musée, une pyramide...) ou d'un monde totalement imaginaire. L'expérience a la fois, visuelle, auditive et dans certains cas haptique(adjectif qui désigne des interfaces qui donnent des sensations par le toucher). Si la personne est équipée des interfaces adéquates elle peut alors éprouver certaines sensations liées au toucher ou à certaines actions.
+Il peut s'agir d'une reproduction d'un monde réel(un musée, une pyramide...) ou d'un monde totalement imaginaire. L'expérience à la fois, visuelle, auditive et dans certains cas haptique(adjectif qui désigne des interfaces qui donnent des sensations par le toucher). Si la personne est équipée des interfaces adéquates elle peut alors éprouver certaines sensations liées au toucher ou à certaines actions.
 
 La finalité de la réalité virtuelle est de permettre à une personne (ou à plusieurs) de vivre une expérience d'immersion ou pas, c'est-à-dire de mener une activité sensori-motrice et cognitive dans un monde créé numériquement.
 
 ### État de l'éducation
 
 ![enter image description here](https://www.digitalbusiness.africa/wp-content/uploads/2015/05/securite-informatique-formation.jpg)
-
+Eleves en salle de classe travaillant sur leur oridnateur.
 
 > "Celui qui ouvre une porte d'école, ferme une prison." - Victor Hugo  
 
@@ -38,6 +38,8 @@ En Afrique, plus principalement en Afrique francophone, l'éducation souffre de 
 ### Solution aux problèmes grâce a la Réalité Virtuelle(VR)
 
 ![enter image description here](https://cahiersdudigitalafrique.com/wp-content/uploads/2018/08/OWNLABS3.jpg)
+
+Exposition de Ownlabs
 
 
 La technologie et plus précisément la Réalité virtuelle est un excellent outil d'apprentissage lorsqu'il est utilisé à escient, on parle également du TEL (Technology Enhanced Learning) ("Apprentissage amélioré par la technologie") pour créer de nouveaux environnements d'apprentissage pour l'apprentissage tant direct qu'à distance.
@@ -95,6 +97,7 @@ Plusieurs autres domaines existent encore ; on ne peut tout citer.
 ### Solutions et progrès effectué dans le domaine
 
 ![enter image description here](https://www.wareable.com/media/imager/201711/26460-original.jpg)
+Merge Cube et son casque de VR
 
 
 **OwnLabs** : Créer des vocations scientifiques en Afrique
