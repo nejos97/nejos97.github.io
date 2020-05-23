@@ -1,5 +1,5 @@
 ---
-title: Et si les gouvernements optait pour la technologie Blockchain ?
+title: Et si les gouvernements optaient pour la technologie Blockchain ?
 layout: post
 date: '2020-05-23 15:58:18'
 categories:
