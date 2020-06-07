@@ -10,8 +10,7 @@ categories:
 - covid19
 image: /assets/images/posts/man-and-women.jpg
 visible: 1
-description: L'impact de la réalité virtuelle sur le processus d'éducation et son
-  évolution.
+description: Acteur du paiement électronique en Afrique et opportunité à l'ère du COVID-19.
 ---
 
 ### C'est quoi le paiement électronique ?
@@ -57,7 +56,7 @@ La plupart des solutions de paiement électronique en ligne mise sur le mobile m
 
 Le Covid-19 constitue un véritable défi pour l’humanité à tous points de vue tant il l’interroge sur sa capacité à faire face, avec… humanité, à la crise qu’il a créée. L’une des multiples dimensions de cette crise concerne la manière dont le numérique se retrouve au cœur d’un monde qui se réinvente sous nos yeux en luttant pour la vie de ses enfants. En quelques semaines, l’utilisation des produits et services numériques s’est répandu à travers le monde à une vitesse comparable à celle de la propagation de ce virus.
 
-Le monde, l’Afrique comprise, ne sera pas le même après cette crise et nous ne pourrons faire l’économie d’une réflexion profonde sur nos modèles de civilisation, nos modèles écologiques et environnementaux, nos modèles économiques, nos modèles politiques… L’Afrique est tenue, comme le reste du monde, à engager sa transformation post-Covid 19 qui commence dès maintenant. La transformation numérique de l’Afrique y est incontournable. 
+Le monde, l’Afrique comprise, ne sera pas le même après cette crise et nous ne pourrons faire l’économie d’une réflexion profonde sur nos modèles de civilisation, nos modèles écologiques et environnementaux, nos modèles économiques, nos modèles politiques… L’Afrique est tenue, comme le reste du monde, à engager sa transformation post-Covid 19 qui commence dès maintenant. La transformation numérique de l’Afrique y est incontournable.
 
 Penser et construire la souveraineté numérique en Afrique, c’est ainsi repenser les Etats africains dans toutes leurs dimensions, à l’aune du numérique.
 
@@ -69,4 +68,3 @@ L’Afrique peut se réveiller au lendemain de cette pandémie avec des élites 
 
 -  [[2] latribune "High Tech : qui sont les champions africains de la monétique ?" , https://afrique.latribune.fr/africa-tech/high-tech/2019-09-08/qui-sont-les-champions-africains-de-la-monetique-827453.html](https://afrique.latribune.fr/africa-tech/high-tech/2019-09-08/qui-sont-les-champions-africains-de-la-monetique-827453.html)
 - [[3] latribune "Ecommerce Afrique : paiement à la livraison ou paiement en ligne ?" , https://blog.senmarketing.net/e-commerce/ecommerce-afrique-paiement-a-la-livraison-ou-paiement-en-ligne/](https://blog.senmarketing.net/e-commerce/ecommerce-afrique-paiement-a-la-livraison-ou-paiement-en-ligne/)
-
