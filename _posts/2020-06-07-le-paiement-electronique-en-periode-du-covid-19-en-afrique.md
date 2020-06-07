@@ -14,7 +14,7 @@ description: Acteur du paiement électronique en Afrique et opportunité à l'è
 ---
 
 ### C'est quoi le paiement électronique ?
-![mpesa](https://lh3.googleusercontent.com/proxy/fPc9DH_dmYvuMtwb0hYoDuPwJ3W2qNtyqWCpHPwacibyL6UNl9FTK2i8U_10ecfEcJKiVQfCtiAzNlEmDMa4wOVs_hvOYaaaBFaukrb3cPo6IHlY5MjlqrInPmdxt5Vf0dYN3UDdsXm4ZkCyYcckF3Pf3w)
+![mpesa](https://img.huffingtonpost.com/asset/5cc16e24260000350070b2ff.jpeg?ops=scalefit_630_noupscale)
 
 *Personne effectuant une transaction mpesa*
 
