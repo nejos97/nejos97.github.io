@@ -1,0 +1,62 @@
+---
+title: A propos
+permalink: /about/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include head.html %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+</head>
+
+<body class="loading">
+
+  {% include header.html %}
+
+  {% include sidebar.html %}
+  <main>
+    <section>
+      <div class="container blog">
+        <h2>A propos de moi 😎</h2>
+        <div class="section-intro" style="font-style: normal; max-width: 90%;">
+          <p>
+            Je suis Nenba Jonathan, étudiant(de temps en temps) en Informatique à l’Université de Ngaoundéré au Cameroun. Je suis le troisième né d’une famille de 5 enfants. J’ai 2 magnifiques grands frères(😘 Abel et 😘 Isaac) et 2 magnifiques petits frères. J’ai fait la majeure partie de mes études secondaires à Guider (un Département situé au Nord du Cameroun).</p>
+          <p>
+            En classe de 4e,  j’ai eu la chance d'être séduit par l’informatique. J’aimais passer énormément de temps dans le centre de ressources multimédia de notre établissement accompagné de mes chers amis (🖥️ Dany,🖥️ Andre, 🖥️ Alladin). Depuis ce temps, je me suis vraiment consacré à l’informatique et de tout ce qui tourne autour.
+          </p>
+
+          <p>
+            Après l’obtention de mon Baccalauréat, j'ai passé le concours de l’IUT(Institut Universitaire de Technologie) où j’ai suivi une formation en Génie Informatique qui, après deux ans, à solder par l’obtention d’un Diplôme Universitaire de Technologie (DUT) Après cela, je me suis inscrit en Faculté.
+          </p>
+
+          <p>
+            Je voulais être indépendant et avoir assez de temps pour faire ce que je voulais. J’aime l’informatique mais pas la façon dont les cours sont dispensés. Ayant longuement réfléchi sur mon avenir et sur ce que mon entourage attendait de moi, j’ai décidé de me lancer et de faire ce qui me plaisait réellement.
+          </p>
+
+          <p>
+            J’ai décidé d’être un Informaticien et Entrepreneur. Je vais continuer d’apprendre de nouvelles compétences (Ne dit-on pas qu'on apprend toute sa vie ?). 
+          </p>
+
+          <p>
+            Ce site web, je l’ai créé dans le but de partager ma passion avec des gens de partout dans le monde et apprendre d’eux également. La photographie, la lecture, l'écriture, la musique me passionnent énormément. Ce site web va vous faire découvrir tout cela. N'hésitez pas de le partager avec votre entourage.
+          <br>
+          
+          <div style="display:flex; align-items: center; justify-content: space-between; flex-direction: column; " >
+            <h4>Merci d’avoir lu. 👋</h4>
+            <a href="/blog" class="button">Ouvrir le Blog 👉</a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  {% if page.url != '/' %}
+    {% include footer.html %}
+  {% endif %}
+
+</body>
+
+</html>

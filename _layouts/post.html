@@ -1,0 +1,63 @@
+---
+comments: true
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	{% include head.html %}
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+</head>
+
+<body class="loading">
+
+	{% include header.html %}
+
+	{% include sidebar.html %}
+	<main>
+		<section>
+			<div class="container blog">
+				<div class="header">
+					<h2>Blog</h2>
+					<a href="/blog" class="all-posts-link">« Retour</a>
+				</div>
+				<div class="post">
+					<h3 class="post-title">{{ page.title }}</h3>
+					<div class="post-feature-meta">
+						<span>Posted on</span>
+						<time datetime="{{ page.date | date: '%Y-%m-%d' }}">
+							{% assign d = page.date | date: "%-d"  %}
+							{{ page.date | date: "%B" }}
+							{% case d %}
+							{% when '1' or '21' or '31' %}{{ d }}st
+							{% when '2' or '22' %}{{ d }}nd
+							{% when '3' or '23' %}{{ d }}rd
+							{% else %}{{ d }}th
+							{% endcase %},
+							{{ page.date | date: "%Y" }}
+						</time> par <a href="/about">Nenba Jonathan</a> | <a href="./#disqus_thread" class="post-feature-meta" >Lire les commentaires</a>
+					</div>
+					<div class="post-feature-meta">
+						{% for category in page.categories %}
+						<a href="#">
+							<span class="category-post"> <i class="fa fa-folder"></i> {{category}}</span>
+						</a>
+						{% endfor %}
+					</div>
+					
+					{{ content }}
+					<div>
+						{% if jekyll.environment == 'production' %}
+							{% include disqus.html %}
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
+	{% include footer.html %}
+	<script id="dsq-count-scr" src="//nenbajonathan.disqus.com/count.js" async></script>
+</body>
+
+</html>

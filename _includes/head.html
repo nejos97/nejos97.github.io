@@ -1,0 +1,20 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="author" content="Nenba Jonathan">
+<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+<meta name="theme-color" content="#E55934">
+{% include favicons.html %}
+<title>
+    {%- if page.title -%}
+        {{ page.title | smartify }} | {{ site.title | smartify }}
+    {%- else -%}
+        {{ site.title | smartify }} | {{ site.description | smartify }}
+    {%- endif -%}
+</title>
+
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+{% endif %}
+{% seo %}
+{% include styles.html %}
