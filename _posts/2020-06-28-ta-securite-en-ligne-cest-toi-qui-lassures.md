@@ -10,7 +10,7 @@ categories:
 - password
 image: /assets/images/posts/hacker.jpg
 visible: 1
-description: Internet, c'est la jungle, quelques conseils e astuce pour assurer votre sécurité.
+description: Internet, c'est la jungle, quelques conseils et astuce pour assurer votre sécurité.
 ---
 
 ![enter image description here](https://assets.vg247.com/current//2017/01/Hacker.jpg)
