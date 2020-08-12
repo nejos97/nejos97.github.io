@@ -10,7 +10,7 @@ categories:
 - finance
 image: /assets/images/posts/mozacoin.png
 visible: 1
-description: Comment le QR Code a bouleverser le quotidien des gens dans le monde.
+description: Mozacoin est en ligne, decouvrez quelque informations sur le projet et ce qu'on veut mettre en place.
 ---
 
 ![enter image description here](https://mozacoin.com/static/og-default-74dcba71d2d7ca1826d8c00c3688e976.png)
