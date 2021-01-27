@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Site web officiel de NENBA Jonathan
-tagline: Site web officiel de NENBA Jonathan
+title: Official website of NENBA Jonathan
+tagline: Official website of NENBA Jonathan
 email: nenbajonathan@protonmail.com
-description: "Je suis Informaticien & Entrepreneur. Créateur d'entreprise & investisseur. La cryptomonnaie, application, services tech... Tant de domaines qui me passionne chaque jour."
+description: "I am a Computer Scientist & Entrepreneur. Company founder & investor. Cryptocurrency, applications, technical services... So many fields that I am passionate about every day."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nenbajonathan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nejos97
@@ -53,7 +53,7 @@ social:
     - https://fr.quora.com/profile/Jonathan-Nenba
     - https://dev.to/nejos97
 
-lang: fr_FR
+lang: en_EN
 
 # Exclude from processing.
 # The following items will not be processed, by default.
