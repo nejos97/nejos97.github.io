@@ -1,7 +1,5 @@
 The source of the personal joanthan Nenba person website accesible here: https:nenbajonathan.com
 
-# <img src="assets/img/icons/simplex_logo.svg" alt="Simplex" height="50"/>
-
 ## ℹ Installation
 
 And then execute:
