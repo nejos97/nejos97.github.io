@@ -1,5 +1,5 @@
 ---
-title: 'Create a simple python web service "dockerize" and publish it'
+title: 'Create a simple python web service, dockerize and publish it'
 layout: post
 date: '2022-11-09 1:51:18 AM'
 categories:
@@ -12,6 +12,8 @@ image: /assets/images/posts/98398983498.jpg
 visible: 1
 description: set up a python API with FastAPI, build a docker image and publish it on the docker registry.
 ---
+
+
 
 Welcome to this new post where we will create a simple API and create a docker image that we can store in the official Docker registry.
 
