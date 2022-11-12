@@ -1,5 +1,5 @@
 ---
-title: 'Integrate Makefile in your routine as a Python developer'
+title: 'Integrate Makefile into your routine as a Python developer'
 layout: post
 date: '2022-11-12 8:57:18 AM'
 categories:
@@ -70,9 +70,16 @@ while True:
 
 This file app_manager.py module adds some logic to our small project. We don't generate a fake value for our user, to do that we will a python package for that, but before doing that let's create a `requirements.txt` for our project(this file will contain all the dependencies for our project)
 
-Please use python virtual env to separate our project from the existing one that you work on it `python3 -m venv venv`
+Please use python virtual env to separate our project from the existing one that you work on it 
+```bash
+python3 -m venv venv
+```
 
-run: `pip install Faker`
+run: 
+```bash
+pip install Faker
+```
+
 ```bash
 pip freeze > requirements.txt
 ```
@@ -184,6 +191,8 @@ run: /venv/bin/activate
 
 Now our `run` target depends on `/venv/bin/activate`  once the target is run successfully the app is launched.
 
+![image tooltip here](/assets/images/posts/terminal.png)
+
 We need to add some lines in our `clean` target to removing also the `venv`
 
 ```yml
@@ -194,7 +203,7 @@ clean:
 
 Let’s test this all out. First, delete the `venv` directory if you have one. Now run `make run`. Since the `venv/bin/activate` file does not exist, `make` will run the `venv/bin/activate` target, which will install the dependencies and finally run the app using the virtual environment.
 
-Using `make` in your python projects opens the door to a lot of possibilities in terms of automation. With make you can add so many automation steps in your development processes like running tests with `pytest` running linters with `flak8`  or running code coverage with `coverage`. 
+Using `make` in your python projects opens the door to a lot of possibilities in terms of automation. With make you can add so many automation steps in your development processes like running tests with `pytest` running linters with `flake8`  or running code coverage with `coverage`. 
 
 If you want to go deep with `Makefile`you can check the official GNU manual on this [link](http://www.gnu.org/software/make/manual/make.html).
 
