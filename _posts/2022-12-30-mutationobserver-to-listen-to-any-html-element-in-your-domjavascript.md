@@ -1,7 +1,7 @@
 ---
 title: 'MutationObserver to listen to any HTML element in your DOM(Javascript).'
 layout: post
-date: '2022-12-31 11:16:18 AM'
+date: '2022-12-30 11:16:18 AM'
 categories:
 - javascript
 - mutationObserver
