@@ -5,7 +5,7 @@ date: '2023-09-15 7:17:18 PM'
 categories:
 - go
 - tasks
-- cli
+- atomicgo
 - programming
 image: /assets/images/posts/schedule-tasks-in-golang-with-atomicgo.png
 visible: 1
