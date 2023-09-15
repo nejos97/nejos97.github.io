@@ -7,7 +7,7 @@ categories:
 - tasks
 - atomicgo
 - programming
-image: /assets/images/posts/schedule-tasks-in-golang-with-atomicgo.png
+image: /assets/images/posts/schedule-tasks-in-golang-with-atomicgo-0.png
 visible: 1
 description: Learn how to schedule tasks execution in golang wiht atomicgo
 ---
